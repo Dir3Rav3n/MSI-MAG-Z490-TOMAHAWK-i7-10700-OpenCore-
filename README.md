@@ -9,7 +9,7 @@ I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing
 # Updates
 
 - Updated to OpenCore 0.6.1
-- Generated new USBPorts.kext
+- Generated new USBPorts.kext for iMac20,2 SMBIOS
 - Created new SSDT-EC, SSDT-PLUG, SSDT-RHUB
 - Added SMCProcessor.kext, SMCSuperIO.kext for CPU and AMD RX580 temperature monitor with HWMonitorSMC2
 
