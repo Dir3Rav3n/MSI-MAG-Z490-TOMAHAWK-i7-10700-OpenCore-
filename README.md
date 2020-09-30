@@ -4,7 +4,7 @@ Hello,
 
 I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
 
-**Current Bootloader: OpenCore 0.6.0**
+**Current Bootloader: OpenCore 0.6.1**
 
 # Hardware
 
@@ -31,7 +31,7 @@ I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing
 
 # Instructions
 
-1. Create an MacOS Catalina 10.15.5 bootable USB. You can do this on a real Mac
+1. Create an MacOS Catalina 10.15.7 bootable USB. You can do this on a real Mac
  	 - Go into the app store and search for Catalina, once downloaded you can find the Installer.app inside Applications folder.
    - Earse the USB by using Disk Utility and rename the USB to MyVolume
    - Create bootable USB by using this command: sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolum
