@@ -6,6 +6,12 @@ I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing
 
 **Current Bootloader: OpenCore 0.6.1**
 
+# Updates
+
+- Updated to OpenCore 0.6.1
+- Generated new USBPorts.kext
+- Created new SSDT-EC, SSDT-PLUG, SSDT-RHUB
+
 # Hardware
 
 - Intel I7 10700
