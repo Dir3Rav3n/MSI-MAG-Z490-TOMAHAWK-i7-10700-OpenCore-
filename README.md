@@ -2,7 +2,7 @@
 
 Hello,
 
-I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
+I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
 
 **Current Bootloader: OpenCore 0.6.1**
 
