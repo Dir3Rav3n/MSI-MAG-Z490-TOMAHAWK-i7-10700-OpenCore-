@@ -12,6 +12,7 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 - Generated new USBPorts.kext for iMac20,2 SMBIOS
 - Created new SSDT-EC, SSDT-PLUG, SSDT-RHUB
 - Added SMCProcessor.kext, SMCSuperIO.kext for CPU and AMD RX580 temperature monitor with HWMonitorSMC2
+- Updated Whatevergreen.kext
 
 # Hardware
 
