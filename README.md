@@ -6,7 +6,7 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 
 **Current Bootloader: OpenCore 0.6.1**
 
-# Updates
+# Updates 09/2020
 
 - Updated to OpenCore 0.6.1
 - Generated new USBPorts.kext for iMac20,2 SMBIOS
