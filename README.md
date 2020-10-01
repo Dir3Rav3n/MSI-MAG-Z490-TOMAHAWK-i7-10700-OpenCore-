@@ -24,6 +24,12 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 - RAM: 32GB DDR4 Corsair 3000MHz
 - GPU: XFX AMD Radeon RX 580 GTS XXX Edition 8GB
 
+# BIOS Settings
+
+- Disable CFG Lock
+- Disable Fastboot 
+- Enable XMP Profile for RAM
+
 # Working
 
 - [x] **Tested with macOS Catalina**
