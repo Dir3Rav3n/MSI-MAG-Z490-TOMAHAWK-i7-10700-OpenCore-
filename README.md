@@ -28,6 +28,7 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 	- 1x USB-C port
 - RAM: 32GB DDR4 Corsair 3000MHz
 - GPU: XFX AMD Radeon RX 580 GTS XXX Edition 8GB
+- Fenvi FV-HB1200 for WiFi/Bluetooth 
 
 # BIOS Settings
 
@@ -44,6 +45,7 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 - [x] **RX 580 works OOB no kext used**
 - [x] **Dual Monitor**
 - [x] **iMessage/FaceTime**
+- [x] **WiFi/Bluetooth, Handoff and AirDrop using Fenvi FV-HB1200 (no kext required)**
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
 - [x] **Restart**
