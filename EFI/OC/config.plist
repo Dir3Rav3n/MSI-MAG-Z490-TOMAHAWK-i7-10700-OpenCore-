@@ -449,7 +449,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02004102QX0000A8</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -463,9 +463,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C5FY8046M</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>BC856E91-93BD-4A6D-A1EE-792FFBC74714</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
