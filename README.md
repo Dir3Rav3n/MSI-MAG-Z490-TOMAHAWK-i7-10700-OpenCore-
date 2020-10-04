@@ -4,7 +4,12 @@ Hello,
 
 I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
 
-**Current Bootloader: OpenCore 0.6.1**
+**Current Bootloader: OpenCore 0.6.2 Nightly**
+
+# Updates 10/2020
+
+- Removed SMCProcessor.kext, SMCSuperIO.kext for CPU and AMD RX580 temperature monitor with HWMonitorSMC2 (Not Using It)
+- Updated Config.plist and OC to 0.6.2 Nightly 
 
 # Updates 09/2020
 
