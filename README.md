@@ -39,13 +39,13 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 # Working
 
 - [x] **Tested with macOS Catalina**
-- [x] **Audio**: Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7)
+- [x] **Audio** Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7)
 - [x] **USB**, all ports
 - [x] **iGPU UHD630 Headless mode**
 - [x] **RX 580 works OOB no kext used**
 - [x] **Dual Monitor**
 - [x] **iMessage/FaceTime**
-- [x] **WiFi/Bluetooth, Handoff and AirDrop using Fenvi FV-HB1200 (no kext required)**
+- [x] **WiFi/Bluetooth, Handoff and AirDrop** Fenvi FV-HB1200 (no kext required)
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
 - [x] **Restart**
