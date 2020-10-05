@@ -6,6 +6,17 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 
 **Current Bootloader: OpenCore 0.6.2 Nightly**
 
+# Hardware
+
+- Intel I7 10700
+- MSI MAG Z490 TOMAHAWK
+	- Audio: REALTEK/ALC1200-VD1
+	- 1x Realtek® RTL8125B 2.5G LAN + 1x Intel I219V 1G LAN
+	- 1x USB-C port
+- RAM: 32GB DDR4 Corsair 3000MHz
+- GPU: XFX AMD Radeon RX 580 GTS XXX Edition 8GB
+- Fenvi FV-HB1200 for WiFi/Bluetooth 
+
 # Updates 10/2020
 
 - Removed SMCProcessor.kext, SMCSuperIO.kext for CPU and AMD RX580 temperature monitor with HWMonitorSMC2 (Not Using It)
@@ -19,16 +30,6 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 - Added SMCProcessor.kext, SMCSuperIO.kext for CPU and AMD RX580 temperature monitor with HWMonitorSMC2
 - Updated Whatevergreen.kext
 
-# Hardware
-
-- Intel I7 10700
-- MSI MAG Z490 TOMAHAWK
-	- Audio: REALTEK/ALC1200-VD1
-	- 1x Realtek® RTL8125B 2.5G LAN + 1x Intel I219V 1G LAN
-	- 1x USB-C port
-- RAM: 32GB DDR4 Corsair 3000MHz
-- GPU: XFX AMD Radeon RX 580 GTS XXX Edition 8GB
-- Fenvi FV-HB1200 for WiFi/Bluetooth 
 
 # BIOS Settings
 
