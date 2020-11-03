@@ -4,7 +4,7 @@ Hello,
 
 I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
 
-**Current Bootloader: OpenCore 0.6.3 Nightly**
+**Current Bootloader: OpenCore 0.6.3**
 
 # Hardware
 
@@ -16,6 +16,10 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 - RAM: 32GB DDR4 Corsair 3000MHz
 - GPU: XFX AMD Radeon RX 580 GTS XXX Edition 8GB
 - Fenvi FV-HB1200 for WiFi/Bluetooth 
+
+# Updates 10/2020
+
+- Updated Config.plist, Drivers, Kexts and OC to 0.6.3
 
 # Updates 10/2020
 

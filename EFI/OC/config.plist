@@ -307,6 +307,8 @@
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
+			<key>ForceSecureBootScheme</key>
+			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
@@ -480,7 +482,7 @@
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>BC856E91-93BD-4A6D-A1EE-792FFBC74714</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
