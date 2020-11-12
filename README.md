@@ -21,9 +21,6 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 
 - Updated Config.plist, Drivers, Kexts and OC to 0.6.3
 
-# Updates 10/2020
-
-- Updated Config.plist and OC to 0.6.3 Nightly 
 
 # Updates 09/2020
 
