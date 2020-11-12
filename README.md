@@ -39,12 +39,6 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 ![Geekbench Score with OC](Geekbench/Geekbench2.png)
 
 
-# BIOS Settings
-
-- Disable CFG Lock
-- Disable Fastboot 
-- Enable XMP Profile for RAM
-
 # Working
 
 - [x] **Tested with macOS Big Sur Beta 11.0.1**
@@ -60,6 +54,14 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 - [x] **Restart**
 
 # Instructions
+
+BIOS Settings:
+
+- Disable CFG Lock
+- Disable Fastboot 
+- Enable XMP Profile for RAM
+- Enable Above 4G decoding
+- Enable iGPU 64MB
 
 1. Create a MacOS Big Sur bootable USB. You can do this on a real Mac
  	 - Go into the app store and search for macOS Big Sur, once downloaded you can find the Installer.app inside Applications folder.
