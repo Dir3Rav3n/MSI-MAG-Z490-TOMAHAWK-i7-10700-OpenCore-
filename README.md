@@ -2,7 +2,7 @@
 
 Hello,
 
-I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
+I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAWK.
 
 **Current Bootloader: OpenCore 0.6.3**
 
@@ -42,7 +42,7 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 
 # Working
 
-- [x] **Tested with macOS Catalina**
+- [x] **Tested with macOS Big Sur Beta 11.0.1**
 - [x] **Audio** Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7)
 - [x] **USB**, all ports
 - [x] **iGPU UHD630 Headless mode**
@@ -56,12 +56,12 @@ I have successfully installed MacOS Catalina 10.15.7 on my i7 10700 non K runing
 
 # Instructions
 
-1. Create an MacOS Catalina 10.15.7 bootable USB. You can do this on a real Mac
- 	 - Go into the app store and search for Catalina, once downloaded you can find the Installer.app inside Applications folder.
+1. Create a MacOS Big Sur bootable USB. You can do this on a real Mac
+ 	 - Go into the app store and search for macOS Big Sur, once downloaded you can find the Installer.app inside Applications folder.
    - Earse the USB by using Disk Utility and rename the USB to MyVolume
-   - Create bootable USB by using this command: sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolum
+   - Create bootable USB by using this command: sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
   
-2. Mount the EFI-partition of the "Install macOS Catalina" disk.
+2. Mount the EFI-partition of the "Install macOS Big Sur" disk.
    - You can do this using the Terminal with the following commands:
    - diskutil list
    - Once you have found the disk for example disk0s1 runt the following command to mount the EFI partition:
