@@ -35,7 +35,7 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 
 # Geekbench
 
-![Geekbench Score with OC](Benchmarks/Geekbench.png)
+![Geekbench Score with OC](Geekbench/Geekbench.png)
 
 
 # BIOS Settings
