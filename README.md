@@ -33,6 +33,10 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 - Added SMCProcessor.kext, SMCSuperIO.kext for CPU and AMD RX580 temperature monitor with HWMonitorSMC2
 - Updated Whatevergreen.kext
 
+# Geekbench
+
+![Geekbench Score with OC](Benchmarks/Geekbench.png)
+
 
 # BIOS Settings
 
