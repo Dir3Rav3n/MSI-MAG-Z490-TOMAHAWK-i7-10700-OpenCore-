@@ -23,6 +23,10 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 ![Geekbench Score with OC](Geekbench/Geekbench.png)
 ![Geekbench Score with OC](Geekbench/Geekbench2.png)
 
+# Cinebench
+
+![Cinebench Score with OC](Cinebench/Cinebench.png)
+
 
 # Working
 
