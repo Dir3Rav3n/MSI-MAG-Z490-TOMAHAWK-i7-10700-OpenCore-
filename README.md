@@ -4,7 +4,7 @@ Hello,
 
 I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAWK.
 
-**Current Bootloader: OpenCore 0.6.3**
+**Current Bootloader: OpenCore 0.6.4**
 
 # Hardware
 
@@ -17,28 +17,20 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 - GPU: XFX AMD Radeon RX 580 GTS XXX Edition 8GB
 - Fenvi FV-HB1200 for WiFi/Bluetooth 
 
-# Updates 10/2020
-
-- Updated Config.plist, Drivers, Kexts and OC to 0.6.3
-
-
-# Updates 09/2020
-
-- Updated to OpenCore 0.6.1
-- Generated new USBPorts.kext for iMac20,2 SMBIOS
-- Created new SSDT-EC, SSDT-PLUG, SSDT-RHUB
-- Added SMCProcessor.kext, SMCSuperIO.kext for CPU and AMD RX580 temperature monitor with HWMonitorSMC2
-- Updated Whatevergreen.kext
 
 # Geekbench
 
 ![Geekbench Score with OC](Geekbench/Geekbench.png)
 ![Geekbench Score with OC](Geekbench/Geekbench2.png)
 
+# Cinebench
+
+![Cinebench Score with OC](Cinebench/Cinebench.png)
+
 
 # Working
 
-- [x] **Tested with macOS Big Sur Beta 11.0.1**
+- [x] **macOS Big Sur 11.0.1**
 - [x] **Audio** Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7)
 - [x] **USB**, all ports
 - [x] **iGPU UHD630 Headless mode**
