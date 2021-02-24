@@ -4,7 +4,7 @@ Hello,
 
 I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAWK.
 
-**Current Bootloader: OpenCore 0.6.4**
+
 
 # Hardware
 
