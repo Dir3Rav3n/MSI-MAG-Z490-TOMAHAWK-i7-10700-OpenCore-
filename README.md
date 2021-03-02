@@ -4,7 +4,7 @@ Hello,
 
 I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAWK.
 
-**Current Bootloader: OpenCore 0.6.4**
+
 
 # Hardware
 
@@ -30,7 +30,7 @@ I have successfully installed MacOS on my i7 10700 non K on MSI MAG Z490 TOMAHAW
 
 # Working
 
-- [x] **macOS Big Sur 11.0.1**
+- [x] **macOS Big Sur 11.2.1**
 - [x] **Audio** Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7)
 - [x] **USB**, all ports
 - [x] **iGPU UHD630 Headless mode**
